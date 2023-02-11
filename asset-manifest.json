@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tablica/static/css/main.7dd419ec.css",
+    "main.js": "/tablica/static/js/main.59628e0a.js",
+    "static/js/787.fe57d587.chunk.js": "/tablica/static/js/787.fe57d587.chunk.js",
+    "index.html": "/tablica/index.html",
+    "main.7dd419ec.css.map": "/tablica/static/css/main.7dd419ec.css.map",
+    "main.59628e0a.js.map": "/tablica/static/js/main.59628e0a.js.map",
+    "787.fe57d587.chunk.js.map": "/tablica/static/js/787.fe57d587.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7dd419ec.css",
+    "static/js/main.59628e0a.js"
+  ]
+}
